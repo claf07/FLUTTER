@@ -40,7 +40,7 @@ class Homepage extends StatelessWidget {
              child:  Padding(
               padding: EdgeInsets.symmetric(vertical: 40, horizontal: 30),
               child: Text(
-                'Welcome to the Claffin Manager!\n\n'
+                'Welcome to the Product Manager!\n\n'
                 'Here, you can easily view, edit, change, or delete your products.\n',
                 textAlign:TextAlign.center,
                 softWrap: true,
