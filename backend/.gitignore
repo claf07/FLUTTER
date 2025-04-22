@@ -1,2 +1,9 @@
-node_modules
-env
+# Ignore Git metadata
+.git/
+
+# Ignore environment and config files
+.env
+.env.* # in case you have .env.local or others
+config.js
+config.ts
+node modules

@@ -45,3 +45,6 @@ build/
 # Dart and Flutter-related
 .packages
 .idea/
+# Never commit this
+.env
+
