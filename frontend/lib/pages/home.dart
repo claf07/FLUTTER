@@ -63,7 +63,7 @@ class Homepage extends StatelessWidget {
                   },
                   
                   icon: Icon(Icons.view_carousel),
-                  label: Text('View porutkal'),
+                  label: Text('View Products'),
                  style: OutlinedButton.styleFrom(
                   foregroundColor: Color(0xff2563EB),
                   backgroundColor: Color(0xfffbcfe8),
