@@ -40,7 +40,7 @@ class Homepage extends StatelessWidget {
              child:  Padding(
               padding: EdgeInsets.symmetric(vertical: 40, horizontal: 30),
               child: Text(
-                'Welcome to the Product Manager!\n\n'
+                'Welcome to the Claffin Manager!\n\n'
                 'Here, you can easily view, edit, change, or delete your products.\n',
                 textAlign:TextAlign.center,
                 softWrap: true,
@@ -63,7 +63,7 @@ class Homepage extends StatelessWidget {
                   },
                   
                   icon: Icon(Icons.view_carousel),
-                  label: Text('View Products'),
+                  label: Text('View porutkal'),
                  style: OutlinedButton.styleFrom(
                   foregroundColor: Color(0xff2563EB),
                   backgroundColor: Color(0xfffbcfe8),

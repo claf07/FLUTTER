@@ -6,7 +6,6 @@ import '../pages/home.dart';
 import './product_provider.dart';
 
 void main() async {
-   WidgetsFlutterBinding.ensureInitialized();
   await dotenv.load(fileName: ".env");
   runApp(const MyApp());
 }

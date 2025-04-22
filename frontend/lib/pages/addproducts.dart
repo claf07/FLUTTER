@@ -131,12 +131,12 @@ class _MyFormState extends State<MyForm> {
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('Product Name', style: TextStyle(fontSize: 15)),
+            Text('porutkal Name', style: TextStyle(fontSize: 15)),
             SizedBox(height: 10),
             TextField(
               controller: ProductName,
               decoration: InputDecoration(
-                labelText: 'Enter the Product Name',
+                labelText: 'Enter the porutkal Name',
                 floatingLabelBehavior: FloatingLabelBehavior.never,
                 border: OutlineInputBorder(),
                 labelStyle: TextStyle(fontSize: 13),
